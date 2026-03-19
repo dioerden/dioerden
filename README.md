@@ -1,6 +1,5 @@
 # Hi, I'm raden muhammad yudie sanjaya 👋
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
 </p>
 
 ### 🔬 Seismology AI & Autonomous Systems | Computational Physicist | LIBS Specialist
