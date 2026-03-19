@@ -1,73 +1,49 @@
-<h1 align="center">Hi, I'm Birrul 👋</h1>
-<h3 align="center">Physics Graduate · LIBS Spectroscopy · HPC & Data Analysis</h3>
-
+# Hi, I'm Birrul Walidain 👋
 <p align="center">
-  <a href="https://github.com/birrulwldain"><img src="https://komarev.com/ghpvc/?username=birrulwldain&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/></a>
+  <img src="assets/banner.png" width="100%" />
+</p>
+
+### 🔬 Seismology AI & Autonomous Systems | Computational Physicist | LIBS Specialist
+
+I am a physicist and developer focused on the intersection of **Seismology** and **Autonomous AI**. 
+My work revolves around building agentic ecosystems for automated earthquake detection, picking, and seismic signal processing.
+
+- 🔭 **SeisAgent-OS**: Developing an autonomous operating system for seismic monitoring and agentic decision making.
+- 🔬 **LIBS Spectroscopy**: Researching elemental analysis and optical signal processing using Voigt profile fitting.
+- 🖥️ **HPC & Data**: Scaling scientific simulations and data pipelines on Linux Clusters.
+
+---
+
+### 🛠️ Tech Stack & Science Toolkit
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Seismology & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Engineering** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![HPC](https://img.shields.io/badge/HPC-Cluster-blue?style=flat-square) |
+| **Workflow** | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dioerden&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioerden&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a computational physicist focused on **LIBS (Laser-Induced Breakdown Spectroscopy)** and large-scale experimental data analysis using **High Performance Computing (HPC)**. I build automated analysis pipelines — from Voigt profile fitting and CF-LIBS calculations to interactive data visualization.
-
-- 🔬 **Research:** LIBS spectroscopy, elemental analysis, optical signal processing
-- 🖥️ **HPC:** CPU cluster simulation, batch job management
-- 📊 **Analysis:** Python, NumPy, SciPy, pandas, matplotlib
-- 📝 **Publications:** ICTAP, ICCAS
+### 📝 Notable Projects
+- **SeisAgent-OS**: An autonomous AI-driven OS for seismological data interpretation.
+- **analisis_gempa**: Advanced earthquake analysis tools and ML models.
+- **Tele-Alpha-Radar**: Remote sensing and signal radar processing.
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Science & Computing</h3>
-      <ul>
-        <li>Python (SciPy, NumPy, pandas)</li>
-        <li>LIBS Spectroscopy & Voigt Fitting</li>
-        <li>HPC / Batch Job (Linux Cluster)</li>
-        <li>Statistical Analysis & ANOVA</li>
-        <li>LaTeX</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Tooling & DevOps</h3>
-      <ul>
-        <li>Git & GitHub Actions</li>
-        <li>Linux / Bash Scripting</li>
-        <li>Docker (basic)</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Web & Others</h3>
-      <ul>
-        <li>HTML, CSS, JavaScript</li>
-        <li>Node.js (basic)</li>
-        <li>Figma</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🐍 Contribution Snake
+![Snake Animation](https://github.com/dioerden/dioerden/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birrulwldain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birrulwldain&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  © 2026 Birrul Walidain | Building the future of Autonomous Science 🌍
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/birrulwldain/birrulwldain/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
-
----
-
-<p align="center">© 2026 Birrul Wldain</p>
