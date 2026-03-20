@@ -1,4 +1,4 @@
-# Hi, I'm raden muhammad yudie sanjaya 👋
+# Hi, I'm Raden Muhammad Yudie Sanjaya 👋
 <p align="center">
 </p>
 
